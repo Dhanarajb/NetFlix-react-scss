@@ -1,7 +1,7 @@
 {
   "name": "netflix",
   "version": "0.1.0",
-  "homepage": "https://Dhanarajb.github.io/app-name",
+  "homepage": "https://Dhanarajb.github.io/NetFlix-react-scss",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
